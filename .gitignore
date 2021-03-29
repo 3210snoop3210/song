@@ -6,12 +6,16 @@ bin-release/
 
 # Other files and folders
 .settings/
+.target/
+.bin/
 
 # Executables
 *.swf
 *.air
 *.ipa
 *.apk
+*.db
+*.log
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
